@@ -1,1 +1,1 @@
-# core7
+# core7 project
